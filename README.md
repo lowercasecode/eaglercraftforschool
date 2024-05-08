@@ -1,4 +1,7 @@
-|||NOW UPDATED TO 1.8!!!!!
+STILL IN BETA
+DO NOT OPEN THERE WILL BE ERRORS
+WILL FIX SOON
+- 4/8/24
 
 online version is https://lowercasecode.github.io/eaglercrafthtml/
 (online version saves individual worlds too and works just as normal as the local version but you don't have to download anything)
