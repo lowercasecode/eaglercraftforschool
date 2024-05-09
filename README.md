@@ -22,4 +22,5 @@ https://lowercasecode.github.io/eaglercraftforschool/
 SERVERS THAT WORK
 
 wss://zentic.cc - Play duels, bedwars, etc.
+
 wss://ggsmp.net - I don't know how to describe this.
