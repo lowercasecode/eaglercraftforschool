@@ -1,4 +1,4 @@
-This is MULTIPLAYER ONLY. Please don't grief too much ;)
+This is MULTIPLAYER ONLY. I am working on a singleplayer only/singleplayer and multiplayer version. Please don't grief too much ;)
 
 How to do this (for people that found this and just wanna gime):
 
