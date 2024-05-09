@@ -16,7 +16,7 @@ How to do this (for people that found this and just wanna gime):
 Make sure to cover the link! (go to the link and type in a random website; it won't change what you're viewing)
 
 
-https://lowercasecode.github.io/eaglercraftforschool/
+
 
 
 SERVERS THAT WORK
